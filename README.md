@@ -44,13 +44,13 @@ Estudiante de **Ingeniería en Informática** en **INACAP Temuco** (egreso 2026)
 
 Plataforma SaaS para talleres de calefacción y climatización: inventario de repuestos, órdenes de trabajo, recepción de equipos, pagos online con Webpay y reportes en PDF y Excel.
 
-![EstufasGestioPro](estufasgestiopro-mockup.png)
-
-| Dashboard | Inventario |
+| Dashboard | Dashboard (finanzas) |
 | --- | --- |
-| ![Dashboard](egp-dashboard.png) | ![Inventario](egp-inventario.png) |
-| **Órdenes de Trabajo** | **Login** |
-| ![Órdenes de Trabajo](egp-ordenes.png) | ![Login](egp-login.png) |
+| ![Dashboard](dashboard.png) | ![Dashboard finanzas](dashboardv.2.png) |
+| **Inventario** | **Órdenes de Trabajo** |
+| ![Inventario](inventario.png) | ![Órdenes de Trabajo](modulo%20de%20ordenes.png) |
+| **Calendario** | **Login** |
+| ![Calendario](calendario.png) | ![Login](login.png) |
 
 ### Otros proyectos
 
