@@ -1,13 +1,13 @@
-# Hola, soy Joaquín Silva 👋
+# Hola, soy Joaquín Silva
 
 Estudiante de **Ingeniería en Informática** en **INACAP Temuco** (egreso 2026). Desarrollador Full Stack con interés en **ingeniería de datos** e **inteligencia artificial**.
 
-- 🔭 Busco mi **Práctica Profesional** en desarrollo de software y datos.
-- 💼 Desarrollé un **SaaS para empresas de calefacción y climatización** que digitaliza inventario, órdenes de servicio y pagos de un taller con cerca de 230 clientes al mes.
-- 🌱 Estoy aprendiendo ingeniería de datos (Python, pandas, ETL) e inglés nivel B2 en Wall Street English.
-- 📫 Contacto: [joacoalejandro35@gmail.com](mailto:joacoalejandro35@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joaquin-silva-991a02398/)
+- Busco mi **Práctica Profesional** en desarrollo de software y datos.
+- Desarrollé un **SaaS para empresas de calefacción y climatización** que digitaliza inventario, órdenes de servicio y pagos de un taller con cerca de 230 clientes al mes.
+- Estoy aprendiendo ingeniería de datos (Python, pandas, ETL) e inglés nivel B2 en Wall Street English.
+- Contacto: [joacoalejandro35@gmail.com](mailto:joacoalejandro35@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joaquin-silva-991a02398/)
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Lenguajes**
 
@@ -38,9 +38,9 @@ Estudiante de **Ingeniería en Informática** en **INACAP Temuco** (egreso 2026)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-### 🔥 EstufasGestioPro
+### EstufasGestioPro
 
 Plataforma SaaS para talleres de calefacción y climatización: inventario de repuestos, órdenes de trabajo, recepción de equipos, pagos online con Webpay y reportes en PDF y Excel.
 
@@ -59,7 +59,7 @@ Plataforma SaaS para talleres de calefacción y climatización: inventario de re
 | [**Cofrial**](https://github.com/shaskw01/cofrial) | Solución de transformación digital desplegada en 2 instancias AWS EC2 con Docker. | Django REST · React · PostgreSQL · AWS |
 | **Asistente de IA local** | Asistente de inteligencia artificial en local con interfaz web, enfocado en ciberseguridad. | Python · IA |
 
-## 📊 Estadísticas
+## Estadísticas
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=shaskw01&show_icons=true&locale=es&hide_border=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=shaskw01&layout=compact&locale=es&hide_border=true)
